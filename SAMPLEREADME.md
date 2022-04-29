@@ -1,4 +1,4 @@
-# pro readme generator
+# Professional Readme Generator
 
   ## Table of Contents 
   - [Description](#description)
@@ -9,23 +9,19 @@
   - [Additional Info](#additional-info)
 
   ## Description:
-  bootcamp homework
+  Easily creating README.MD's in a jippy
 
   ## Installation:
-  through github
+  download it through github
 
   ## Usage:
-  academic
+  run it by typing 'node index.js'
 
   ## License:
-  
+  MIT
 
   ## Contribution:
-  through git
+  N/A
 
   ## Testing:
-  with termial
-
-  ## Additional Info:
-  - Github: [joalbeva](https://github.com/joalbeva)
-  - Email: n 
+  N/A
